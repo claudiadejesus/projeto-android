@@ -81,13 +81,13 @@ nav{
 nav > a {
     color: var(--cor1);
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 5px; /* a borda da âncora */
     text-decoration: none;
     font-weight: bold;
 }
 
 nav >a:hover{
-    background-color: var(--cor3) ;
+    background-color: var(--cor3) ; /* background da borda e color da âncora */
     color: var(--cor5);
 
 }
